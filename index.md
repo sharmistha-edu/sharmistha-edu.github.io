@@ -4,7 +4,7 @@ layout: page
 ---
 
 <nav align="center">
-  <a href="#about">About</a> |
+  <a href="#about">Biography</a> |
   <a href="#interests">Interests</a> |
   <a href="#experience">Professional Experience</a> |
   <a href="#education">Education</a> |
@@ -13,7 +13,7 @@ layout: page
 
 ---
 
-# Professional Summary
+## Profile Summary
 
 **Sharmistha Roy** is an experienced educator and curriculum developer with a strong background in child development, academic instruction and social science research.
 
@@ -23,7 +23,7 @@ layout: page
 
 ## About
 
-Sharmistha Roy is an accomplished educator and researcher with over 18 years of combined experience in academic instruction, curriculum development, online edtech, and social science research. She has held key instructional and leadership roles at organizations such as Kumon India (10 years), Crescendo Knowledge Solutions, MDN Edify Education, and New Age Knowledge Solutions working with diverse student populations across India. Sharmistha holds a Master’s degree in Home Science/Human Development from Sardar Patel University, and a Bachelor’s degree from S.D. Agricultural University, where she won multiple academic honors including the Vice-Chancellor’s Gold Medal. Her research background includes projects with the Tata Institute of Social Sciences and MSU Baroda, focusing on youth development and gender studies. She brings a strong skill set in communication, curriculum design, academic mentoring, and data analysis using tools like SPSS and Microsoft Excel, making her a valuable asset in both educational and developmental sectors. She lives in Bengaluru, India.
+Sharmistha Roy is an accomplished educator and researcher with over 18 years of combined experience in academic instruction, curriculum development, online edtech, and social science research. She has held key instructional and leadership roles at organizations such as Kumon India (10 years), Crescendo Knowledge Solutions, MDN Edify Education, and New Age Knowledge Solutions working with diverse student populations across India. Sharmistha holds a Master’s degree in Home Science/Human Development from Sardar Patel University, and a Bachelor’s degree from S.D. Agricultural University, where she won multiple academic honors including the Vice-Chancellor’s Gold Medal. Her research background includes projects with the Tata Institute of Social Sciences and MSU Baroda, focusing on youth development and gender studies. She brings a strong skill set in communication, curriculum design, academic mentoring, and data analysis using tools like SPSS and Microsoft Excel, making her a valuable asset in educational, research, and developmental sectors. She lives in Bengaluru, India.
 
 ## Interests
 
