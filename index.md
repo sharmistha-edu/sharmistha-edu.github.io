@@ -39,6 +39,7 @@ Sharmistha Roy is an accomplished educator and researcher with over 18 years of 
 ### Instructor and Senior Instructor, Kumon India (2013-25)
 
 Kumon Math and English, HSR Layout, Bangalore (2023-25)
+
 Kumon India Education Pvt. Ltd., Pune and Koramangala, Bangalore (2013-21)
 
 - Actively engaged as instructor to 60-80 students of various age groups (3-16 years) in Math and English subjects: extremely dedicated to raising their academic proficiency irrespective of age or grade, enhancing their performance through independent verification and regular mentoring sessions, and helping them achieve and surpass their respective grade levels.  
